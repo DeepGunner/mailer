@@ -1,0 +1,24 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "mailer backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeepGunner/mailer.git"
+  },
+  "author": "Deepinder Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeepGunner/mailer/issues"
+  },
+  "homepage": "https://github.com/DeepGunner/mailer#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.5.2",
+    "nodemailer": "^6.9.5"
+  }
+}
